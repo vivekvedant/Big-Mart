@@ -35,7 +35,5 @@ We have train (8523) and test (5681) data set, train data set has both input and
 ### train.csv       :- its the csv file of train data
 ### test.csv         :- its the csv file of test data
 ### SampleSubmission :- its the csv file of sample submission of prediction
-### identifier.csv    :- its the csv file of Item_Identifier of test data
-### Outlet_identifier.csv :- its the csv file of outlet_identifier of test data
-### Item_Outlet_Sales.csv :-its the csv file of the predicited sales
-### final_f.csv           :- its final csv which include   Item_Identifier,outlet_identifer and predicted sales
+
+### final.csv           :- its final csv which include   Item_Identifier,outlet_identifer and predicted sales
